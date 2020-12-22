@@ -1,0 +1,6 @@
+[submodule "basket"]
+	path = basket
+	url = https://github.com/tvarano/basket.git
+[submodule "basket-scraper"]
+	path = basket-scraper
+	url = https://github.com/tvarano/basket-scraper.git
