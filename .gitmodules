@@ -4,3 +4,6 @@
 [submodule "basket-scraper"]
 	path = basket-scraper
 	url = https://github.com/tvarano/basket-scraper.git
+[submodule "basket-frontend"]
+	path = basket-frontend
+	url = https://github.com/tvarano/basket-frontend.git
